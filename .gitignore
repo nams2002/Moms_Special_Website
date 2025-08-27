@@ -56,3 +56,6 @@ jspm_packages/
 .vercel
 
 .vercel
+
+# Local Netlify folder
+.netlify
